@@ -1,0 +1,13 @@
+C:\Users\William\source\repos\DesignPatternFactoryExample\DesignPatternFactoryExample\obj\Debug\netcoreapp3.1\DesignPatternFactoryExample.csprojAssemblyReference.cache
+C:\Users\William\source\repos\DesignPatternFactoryExample\DesignPatternFactoryExample\obj\Debug\netcoreapp3.1\DesignPatternFactoryExample.AssemblyInfoInputs.cache
+C:\Users\William\source\repos\DesignPatternFactoryExample\DesignPatternFactoryExample\obj\Debug\netcoreapp3.1\DesignPatternFactoryExample.AssemblyInfo.cs
+C:\Users\William\source\repos\DesignPatternFactoryExample\DesignPatternFactoryExample\obj\Debug\netcoreapp3.1\DesignPatternFactoryExample.csproj.CoreCompileInputs.cache
+C:\Users\William\source\repos\DesignPatternFactoryExample\DesignPatternFactoryExample\bin\Debug\netcoreapp3.1\DesignPatternFactoryExample.exe
+C:\Users\William\source\repos\DesignPatternFactoryExample\DesignPatternFactoryExample\bin\Debug\netcoreapp3.1\DesignPatternFactoryExample.deps.json
+C:\Users\William\source\repos\DesignPatternFactoryExample\DesignPatternFactoryExample\bin\Debug\netcoreapp3.1\DesignPatternFactoryExample.runtimeconfig.json
+C:\Users\William\source\repos\DesignPatternFactoryExample\DesignPatternFactoryExample\bin\Debug\netcoreapp3.1\DesignPatternFactoryExample.runtimeconfig.dev.json
+C:\Users\William\source\repos\DesignPatternFactoryExample\DesignPatternFactoryExample\bin\Debug\netcoreapp3.1\DesignPatternFactoryExample.dll
+C:\Users\William\source\repos\DesignPatternFactoryExample\DesignPatternFactoryExample\bin\Debug\netcoreapp3.1\DesignPatternFactoryExample.pdb
+C:\Users\William\source\repos\DesignPatternFactoryExample\DesignPatternFactoryExample\obj\Debug\netcoreapp3.1\DesignPatternFactoryExample.dll
+C:\Users\William\source\repos\DesignPatternFactoryExample\DesignPatternFactoryExample\obj\Debug\netcoreapp3.1\DesignPatternFactoryExample.pdb
+C:\Users\William\source\repos\DesignPatternFactoryExample\DesignPatternFactoryExample\obj\Debug\netcoreapp3.1\DesignPatternFactoryExample.genruntimeconfig.cache
